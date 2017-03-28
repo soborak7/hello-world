@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+Hi, it's my beginings on the github. I like front-end technologys.
